@@ -1,0 +1,104 @@
+ssday2 
+
+Diving the basic of css
+
+you will learning
+
+- How to add css to html
+- setting up css rule
+- selector properties and value
+- conflicing styles
+
+
+002 undersating the courses project setup
+003 add css to our project with inline style
+-line style
+005 Applying addtional styles & important Google font
+006 Theory time selector
+007 undersating the cascading_style & specificity
+008 undersating inheritance
+
+inheritance waxaa weye marka element  ku jira pareint
+uu ka awood bato kii paraentiga ah 
+
+like sidan 
+section class ="wax_kabadlay">
+<p> text </p>
+</section>
+
+p {
+    color:red    thgsi aar called inhertance
+}
+009  Adding combinator  
+
+10 undersating combinator 
+
+they are  four combinator
+
+- Adjacent sibling  
+
+div + p {
+    color red;  red appled  p
+}
+
+- General sibling 
+
+div ~ p {
+    color:green; , green applied p
+}
+
+- Child 
+
+div > p {
+    color: black;  # black applied p
+}
+
+- Descendant 
+
+div p {
+    color: grey; grey applying grey
+}
+
+11 sumarrsing properties and selector
+
+value type
+
+-pre-define options
+
+like..
+
+display : block
+over flow :auto
+
+- color
+like ....
+
+background:red;
+color:#fa923f
+color:#ccc
+
+- lengh size & numbers 
+
+like ...
+
+height: 100px;
+widht : 20%
+order : 1
+
+-functions
+
+like ...
+background: url()
+transform:scale()
+
+
+waxyabihii aan ku bartay
+
+- sida css logu so daro html
+-background , color
+- selectors
+- specificity
+- combinator
+- properties and value
+-type value
+
