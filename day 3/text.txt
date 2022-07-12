@@ -1,0 +1,35 @@
+day 2  diving Deeper into css
+
+
+what inside this module
+
+
+-the Box module
+-Height & widht
+-The display  properties
+- properties worth to remember
+- pseudo class & element
+
+
+003 understanding the boxex module
+004  understanding the margin colloption and removing default margin
+005  theory time -working with shorthand properties
+
+
+seperatete  properties
+-------------------
+
+like
+
+border-widht: 2px;
+border-style: dashed | solid
+border-color: organe
+
+shorthand properties
+--------------------
+border: 2px dashed orange ;
+
+007 adding shorthand properties
+008 diving into height & widht properties
+009  understanding the box zing
+010  Adding the header to our project
