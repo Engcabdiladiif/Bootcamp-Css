@@ -1,0 +1,13 @@
+more on css selectos properties & and value
+
+-what inide this module
+
+more oncss
+!important
+More on pseudo classes & Element
+:not
+
+002 more on css classes
+003 Css classes selectors Vs Id selector
+004  not using important
+005 selecting the oppostite with not()
